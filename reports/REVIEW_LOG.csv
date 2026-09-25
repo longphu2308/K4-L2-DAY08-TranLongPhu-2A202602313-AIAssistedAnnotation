@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe tối gần mép trái,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+2,frame_0182.jpg,xe tối mép dưới,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+3,frame_0392.jpg,xe buýt trắng,edited,Chỉ bao quanh đèn xe nên sửa lại bao cả thân xe theo GUIDELINE_LABEL.md
